@@ -6,7 +6,9 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    std::cout << "Hello World!\n";
+    
+    std::cout << "有馬 由人\n";
+
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
