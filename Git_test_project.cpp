@@ -15,7 +15,7 @@ int main()
 
     std::cout << "プッシュをしてください\n";
 
-    std::cout << "プルしません\n";
+    std::cout << "プルを行いません\n";
 
 }
 
