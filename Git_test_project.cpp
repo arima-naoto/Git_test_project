@@ -17,7 +17,7 @@ int main()
 
     std::cout << "プルできました\n";
 
-    std::cout << "おさらい\n";
+    std::cout << "おさらいです\n";
 
 
 }
