@@ -17,9 +17,7 @@ int main()
 
     std::cout << "プルできました\n";
 
-    std::cout << "おさらいです\n";
-
-    std::cout << "プル制作の作業\n";
+    std::cout << "おさらい\n";
 
 }
 
