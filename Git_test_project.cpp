@@ -15,7 +15,9 @@ int main()
 
     std::cout << "プッシュをしてください\n";
 
-    stf::cout << "プルできました\n";
+    std::cout << "プルできました\n";
+
+    std::cout << "おさらい\n";
 
 
 }
